@@ -17,7 +17,7 @@ This repository accompanies the manuscript and provides all necessary code, data
 
 ---
 
-##  Requirements
+## ⚙️ Requirements
 
 Install dependencies using:
 
