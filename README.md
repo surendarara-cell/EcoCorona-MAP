@@ -3,10 +3,11 @@
 
 ---
 
-## Overview
+##  Overview
 
-EcoCorona-MAP is a reproducible computational framework designed to model and predict **protein–nanoparticle adsorption interactions** using machine learning. The framework supports:
+EcoCorona-MAP is a reproducible computational framework designed to model and predict **protein–nanoparticle adsorption interactions** using machine learning.
 
+The framework supports:
 - Protein feature-based adsorption energy prediction  
 - Data-driven modeling of eco-corona formation  
 - Baseline neural network implementation (extendable to graph-based models)  
@@ -16,18 +17,9 @@ This repository accompanies the manuscript and provides all necessary code, data
 
 ---
 
-## Requirements
+##  Requirements
 
 Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-##  How to Run
-
-### Step 1: Ensure dataset is placed at:
-data/sample_protein_np_pairs.csv
-
-### Step 2: Run training:
-```bash
-python train.py
