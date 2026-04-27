@@ -22,3 +22,12 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+##  How to Run
+
+### Step 1: Ensure dataset is placed at:
+data/sample_protein_np_pairs.csv
+
+### Step 2: Run training:
+```bash
+python train.py
